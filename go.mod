@@ -1,3 +1,3 @@
 module github.com/linabeee/ircd-in-go
 
-go 1.16
+go 1.17
